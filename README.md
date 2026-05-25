@@ -1,5 +1,5 @@
 [melisport-README.md](https://github.com/user-attachments/files/28214822/melisport-README.md)
-# Afriment-Internship-Melisports# Melisport Nigeria — Data Analyst Internship (2026) 📊
+# Afriment-Internship-Melisports# Melisport Nigeria — Data Analyst Internship (April-June 2026) 📊
 
 A collection of real-world data analytics work completed during my Data Analyst Internship at Melisport Nigeria — a sports brand operating across retail and community channels. Every deliverable here was built from scratch to support business decisions around market expansion, prospect targeting, and performance tracking.
 
@@ -9,7 +9,7 @@ A collection of real-world data analytics work completed during my Data Analyst 
 
 **Company:** Melisport Nigeria  
 **Role:** Data Analyst Intern  
-**Period:** 2026 – Present  
+**Period:** April 2026 - May 2026  
 **Focus Areas:** Market research, prospect development, dashboard reporting, social media analytics, industry research
 
 ---
